@@ -1,9 +1,15 @@
 body {
-    background-color: #f0f0f0;
+    background: linear-gradient(90deg ,#07267E, #081023, #000000);
+    min-height: 100vh;
+    height: 100%;
+    margin: 0;
 }
 .card {
+    color: #fff;
     margin-top: 50px;
     border-radius: 15px;
+    background: #0C162E;
+    border: 2px solid #1C51E1;
 }
 .profile-img {
     width: 150px;
@@ -11,7 +17,7 @@ body {
     object-fit: cover;
     border-radius: 50%;
     margin-bottom: 20px;
-}
+
 .btn-instagram {
     background-color: #e1306c;
     color: white;
