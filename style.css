@@ -19,9 +19,16 @@ body {
     margin-bottom: 20px;
 
 .btn-instagram {
-    background-color: #e1306c;
-    color: white;
+    background: #e1306c;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    display: inline-block;
 }
+
 .btn-instagram:hover {
-    background-color: #c1275b;
+    background: #c1275b;
 }
+
